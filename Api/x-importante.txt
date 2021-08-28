@@ -1,0 +1,17 @@
+https://www.youtube.com/watch?v=Q9oVStZ1DJA&t=6s
+
+<!-- Muito top conexão raiz
+    https://www.youtube.com/watch?v=2XBWTEbGw4w
+--!>
+
+<!-- MYSQL Squelize Rockeatset POSTGRES
+    https://www.youtube.com/watch?v=Fbu7z5dXcRs&t=253s
+-->
+
+<!-- Live Coding CRUD Node.js + Vue.js + PostGreSQL - Dia 01
+    https://www.youtube.com/watch?v=G_8Pi7Y1eiE
+-->
+
+<!-- 1/12 - CRUD con Vue.JS - Presentación del proyecto
+    https://www.youtube.com/watch?v=0DVTaa2FzS8&list=PLrAw40DbN0l3z1GxLo80bwtWEl4HBu0Eo
+-->
